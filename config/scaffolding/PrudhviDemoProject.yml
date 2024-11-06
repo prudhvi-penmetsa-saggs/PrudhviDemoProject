@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: PrudhviDemoProject
+  gitServerName: prudhvigithub
+  gitUrl: https://github.com/prudhvi-penmetsa-saggs
+  gitUsername: prudhvi-penmetsa-saggs
+  gitBranch: main
